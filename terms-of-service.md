@@ -125,9 +125,9 @@ You do not acquire any ownership rights by using the App.
 
 ## 13. Governing Law
 
-These Terms are governed by the laws of the United States, without regard to conflict of law principles.
+These Terms are governed by the laws of the Province of Quebec and the federal laws of Canada applicable therein, without regard to conflict of law principles.
 
-Any disputes shall be resolved in accordance with applicable law.
+Any disputes shall be resolved in accordance with the laws of Quebec, Canada.
 
 ## 14. Severability
 
@@ -137,7 +137,13 @@ If any provision of these Terms is found unenforceable, the remaining provisions
 
 These Terms, together with our Privacy Policy, constitute the entire agreement between you and us regarding the App.
 
-## 16. Contact Information
+## 16. Language
+
+These Terms are provided in English. If you require these Terms in French (as per Quebec language laws), please contact us at veltosais@gmail.com.
+
+*Ces conditions sont disponibles en français sur demande.*
+
+## 17. Contact Information
 
 For questions about these Terms, contact us at:
 
